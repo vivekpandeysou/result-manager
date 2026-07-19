@@ -1,0 +1,12 @@
+about project
+1.conditional :-for logic 
+2.loops:- menu system
+3.dictionary :-store data
+
+
+
+for teacher
+1.add student 
+2.view all student
+3.check result
+4.exist
